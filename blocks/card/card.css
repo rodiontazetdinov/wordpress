@@ -1,0 +1,10 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 384px;
+    margin-right: 48px;
+}
+
+.card:last-of-type {
+    margin-right: 0;
+}
