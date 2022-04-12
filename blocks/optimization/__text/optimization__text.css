@@ -1,0 +1,22 @@
+.optimization__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+    margin-top: 14px;
+    margin-bottom: 0;
+}
+
+.optimization__text:last-of-type {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 27px;
+    color: #4A4A4A;
+}
+
+
+
