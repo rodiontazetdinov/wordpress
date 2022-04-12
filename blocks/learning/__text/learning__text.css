@@ -1,0 +1,12 @@
+.learning__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #EFEFEF;
+    min-width: 210px;
+    margin: 0;
+    margin-top: 25px;
+}

@@ -1,0 +1,9 @@
+.learning__circle {
+    display: flex;
+    background: #B4E2FF;
+    border-radius: 50%;
+    width: 115px;
+    height: 115px;
+    justify-content: center;
+    align-items: center;
+}
