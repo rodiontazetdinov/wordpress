@@ -1,0 +1,15 @@
+.intro__know {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 100;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+text-transform: uppercase;
+color: #fff;
+opacity: 0.5;
+margin-right: auto;
+margin-left: auto;
+margin-top: 70px;
+margin-bottom: 4px;
+}

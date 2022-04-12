@@ -1,0 +1,14 @@
+.intro__wow-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

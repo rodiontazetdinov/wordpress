@@ -2,5 +2,17 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__wow-text/intro__wow-text.css);
+@import url(../blocks/intro/__line/intro__line.css);
+@import url(../blocks/atachment/atachment.css);
+@import url(../blocks/intro/__wrapper/intro__wrapper.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__text-yellow/intro__text-yellow.css);
+@import url(../blocks/button-submit/button-submit.css);
+@import url(../blocks/intro/__know/intro__know.css);
+@import url(../blocks/intro/__icon/intro__icon.css);
 /* шрифт в конце */
 @import url(../vendor/fonts/roboto.css);
