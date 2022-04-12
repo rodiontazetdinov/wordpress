@@ -33,5 +33,9 @@
 @import url(../blocks/learning/__text/learning__text.css);
 @import url(../blocks/learning/__wrapper/learning__wrapper.css);
 @import url(../blocks/learning/__circle/learning__circle.css);
+@import url(../blocks/gift/gift.css);
+@import url(../blocks/gift/__image/gift__image.css);
+@import url(../blocks/gift/__text/gift__text.css);
+@import url(../blocks/gift/__button-submit/gift__button-submit.css);
 /* шрифт в конце */
 @import url(../vendor/fonts/roboto.css);
