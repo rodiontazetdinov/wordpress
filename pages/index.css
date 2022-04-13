@@ -37,5 +37,15 @@
 @import url(../blocks/gift/__image/gift__image.css);
 @import url(../blocks/gift/__text/gift__text.css);
 @import url(../blocks/gift/__button-submit/gift__button-submit.css);
+@import url(../blocks/webinar/webinar.css);
+@import url(../blocks/webinar/__image/webinar__image.css);
+@import url(../blocks/webinar/__text/webinar__text.css);
+@import url(../blocks/webinar/__title/webinar__title.css);
+@import url(../blocks/webinar/__wow-text/webinar__wow-text.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav/footer__nav.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__phone/footer__phone.css);
+
 /* шрифт в конце */
 @import url(../vendor/fonts/roboto.css);

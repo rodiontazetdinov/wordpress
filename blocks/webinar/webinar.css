@@ -1,0 +1,6 @@
+.webinar {
+    display: flex;
+    flex-direction: column;
+    padding-top: 89px;
+    padding-bottom: 52px;
+}
