@@ -16,3 +16,7 @@
     font-stretch: condensed;
     border: none;
 }
+
+.button-submit:hover {
+    cursor: pointer;
+}
